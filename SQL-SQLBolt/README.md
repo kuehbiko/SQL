@@ -1,4 +1,6 @@
-Introductory SQL exercises from [SQLBolt](https://sqlbolt.com/). Written in SQLite. Completed 6 Oct 2023
+Introductory SQL exercises from [SQLBolt](https://sqlbolt.com/). \
+Written in SQLite. \
+Completed 6 Oct 2023 \
 
 [SQL Lesson 1: SELECT queries 101](https://sqlbolt.com/lesson/select_queries_introduction) \
 [SQL Lesson 2: Queries with constraints (Pt. 1)](https://sqlbolt.com/lesson/select_queries_with_constraints) \
